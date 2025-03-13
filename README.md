@@ -16,7 +16,7 @@ Paragraf HTML dapat di isi pada tag <.p> <./p>. Tautan/link pada HTML di isi did
 <body>
 <h1>Halo semuanya~~~! Saya Stevialdaa</h1>
 <h2>Ini instagram saya, silahkan di follow ^_^</h2>
-    <a href="https://www.instagram.com/aping_stev)">Intagram</a>
+    <a href="https://www.instagram.com/aping_stev">Intagram</a>
 <h3>This is heading 3</h3>
 </body>
 </html>
