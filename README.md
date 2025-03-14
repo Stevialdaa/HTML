@@ -35,6 +35,11 @@ tag HTML <.blockquote> mendefinisikan bagian yang dikutip dari sumber lain. Tag 
 ### HTML Styles - CSS
 gunakan style untuk gaya inline. gunakan <.style> Untuk mendefinisikan CSS internal. gunakan <.link> Untuk merujuk ke file CSS eksternal. gunakan <.head> Untuk menyimpan elemen <.style> dan <.link>. gunakan color untuk warna teks. gunakan font-family property for text fonts
 gunakan font-size untuk font teks. gunakan border untuk border. gunakan padding untuk ruang di dalam perbatasan. gunakan margin Untuk ruang di luar perbatasan.
+### HTML - Links
+Pada bagian ini kita dapat mengunakan tag <.a> untuk mendefinisikan sebuah tautan. elemen href untuk menentukan alamat tautan/link. elemen target untuk menentukan tempat untuk membuka dokumen yang ditautkan. Gunakan tag <.img> (di dalam <.a>) untuk menggunakan gambar sebagai tautan
+dan mailto untuk membuat tautan yang membuka program email pengguna.
+### HTML - Images
+Gunakan elemen HTML <.img> untuk mendefinisikan sebuah gambar. Gunakan atribut HTML src untuk menentukan URL/link gambar. Gunakan atribut HTML alt untuk menentukan teks alternatif untuk sebuah gambar. Gunakan atribut lebar dan tinggi HTML atau properti lebar dan tinggi CSS untuk menentukan ukuran gambar. Gunakan float untuk membiarkan gambar melayang ke kiri atau ke kanan
 # Berikut hasil latihan saya 
 <!DOCTYPE html>
 <html>
@@ -45,6 +50,23 @@ gunakan font-size untuk font teks. gunakan border untuk border. gunakan padding 
 <hr>
 <h2>Ini Media sosial saya, silahkan di follow HEHEHEHE</h2>
     <a href="https://www.instagram.com/aping_stev">Intagram</a>
+ <table>
+  <tr>
+    <th>Judul 1</th>
+    <th>Kolom 1</th>
+    <th>Kolom 2</th>
+  </tr>
+  <tr>
+    <td>Judul 2</td>
+    <td>Kolom 1</td>
+    <td>Kolom 2</td>
+  </tr>
+  <tr>
+    <td>Judul 3</td>
+    <td>Kolom 1</td>
+    <td>Kolom 2</td>
+  </tr>
+</table>
 <h3>Kesibukan saat ini</h3>
  <p>Saya sedang berkuliah di ITBSS
   <br>Saya dari prodi Bisnis Digital<br>
