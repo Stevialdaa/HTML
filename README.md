@@ -39,7 +39,10 @@ gunakan font-size untuk font teks. gunakan border untuk border. gunakan padding 
 Pada bagian ini kita dapat mengunakan tag <.a> untuk mendefinisikan sebuah tautan. elemen href untuk menentukan alamat tautan/link. elemen target untuk menentukan tempat untuk membuka dokumen yang ditautkan. Gunakan tag <.img> (di dalam <.a>) untuk menggunakan gambar sebagai tautan
 dan mailto untuk membuat tautan yang membuka program email pengguna.
 ### HTML - Images
-Gunakan elemen HTML <.img> untuk mendefinisikan sebuah gambar. Gunakan atribut HTML src untuk menentukan URL/link gambar. Gunakan atribut HTML alt untuk menentukan teks alternatif untuk sebuah gambar. Gunakan atribut lebar dan tinggi HTML atau properti lebar dan tinggi CSS untuk menentukan ukuran gambar. Gunakan float untuk membiarkan gambar melayang ke kiri atau ke kanan
+Gunakan elemen HTML <.img> untuk mendefinisikan sebuah gambar. Gunakan atribut HTML src untuk menentukan URL/link gambar. Gunakan atribut HTML alt untuk menentukan teks alternatif untuk sebuah gambar. Gunakan atribut lebar dan tinggi HTML atau properti lebar dan tinggi CSS untuk menentukan ukuran gambar. Gunakan float untuk membiarkan gambar melayang ke kiri atau ke kanan.
+### HTML Lists
+Tag Lists berisikan
+<ul.>untuk daftar yang tidak berurutan, <ol.>	 untuk daftar yang dipesan, <li.>	 untuk item daftar, <.dl>	 Mendefinisikan daftar deskripsi, <.dt>untuk sebuah istilah dalam daftar deskripsi, <.dd>	 Menjelaskan istilah dalam daftar deskripsi.
 # Berikut hasil latihan saya 
 <!DOCTYPE html>
 <html>
@@ -52,19 +55,19 @@ Gunakan elemen HTML <.img> untuk mendefinisikan sebuah gambar. Gunakan atribut H
     <a href="https://www.instagram.com/aping_stev">Intagram</a>
  <table>
   <tr>
-    <th>Judul 1</th>
-    <th>Kolom 1</th>
-    <th>Kolom 2</th>
+    <th>Saya</th>
+    <th>anak</th>
+    <th>rajin</th>
   </tr>
   <tr>
-    <td>Judul 2</td>
-    <td>Kolom 1</td>
-    <td>Kolom 2</td>
+    <td>saya</td>
+    <td>anak</td>
+    <td>baiq</td>
   </tr>
   <tr>
-    <td>Judul 3</td>
-    <td>Kolom 1</td>
-    <td>Kolom 2</td>
+    <td>saya</td>
+    <td>rajin</td>
+    <td>menabung</td>
   </tr>
 </table>
 <h3>Kesibukan saat ini</h3>
