@@ -46,7 +46,11 @@ Tag Lists berisikan
 ### HTML class Attribute
 Atribut class HTML digunakan untuk menentukan kelas untuk elemen HTML. Kelas digunakan oleh CSS dan JavaScript untuk memilih dan mengakses elemen tertentu.
 ### HTML File Paths
-file paths berguna untuk menjelaskan lokasi file dalam struktur folder situs web.
+file paths berguna untuk menjelaskan lokasi file dalam struktur folder situs web, file paths digunakan saat ingin menautkan ke file eksternal.
+### HTML - The Head Element
+Elemen HTML <.head> adalah wadah untuk elemen <.title>, <.style>, <.meta>, <.link>, <.script>, dan <.base>.
+### XHTML
+XHTML adalah singkatan dari Extensible HyperText Markup Language. XHTML dikembangkan agar HTML lebih dapat diperluas dan fleksibel untuk bekerja dengan format data lain (seperti XML). Selain itu, browser akan mengabaikan kesalahan di halaman HTML, dan akan tetap menampilkan situs web meskipun memiliki beberapa kesalahan dalam markup.
 # Berikut hasil latihan saya 
 <!DOCTYPE html>
 <html>
