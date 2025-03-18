@@ -43,6 +43,10 @@ Gunakan elemen HTML <.img> untuk mendefinisikan sebuah gambar. Gunakan atribut H
 ### HTML Lists
 Tag Lists berisikan
 <ul.>untuk daftar yang tidak berurutan, <ol.>	 untuk daftar yang dipesan, <li.>	 untuk item daftar, <.dl>	 Mendefinisikan daftar deskripsi, <.dt>untuk sebuah istilah dalam daftar deskripsi, <.dd>	 Menjelaskan istilah dalam daftar deskripsi.
+### HTML class Attribute
+Atribut class HTML digunakan untuk menentukan kelas untuk elemen HTML. Kelas digunakan oleh CSS dan JavaScript untuk memilih dan mengakses elemen tertentu.
+### HTML File Paths
+file paths berguna untuk menjelaskan lokasi file dalam struktur folder situs web.
 # Berikut hasil latihan saya 
 <!DOCTYPE html>
 <html>
